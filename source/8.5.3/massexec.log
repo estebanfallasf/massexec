@@ -1,0 +1,114 @@
+Fri, 11 Nov 2011 18:01:21 +0000 	anibalg	->	algo	letrasticas.org	
+comando
+
+Thu, 17 Nov 2011 06:15:31 +0000 	vindaa	->	vindaa	gsun21	
+uname -a
+
+Thu, 17 Nov 2011 06:16:26 +0000 	vindaa	->	vindaa	gsun21	
+uname -a
+
+Thu, 17 Nov 2011 06:16:29 +0000 	vindaa	->	vindaa	gsun178	
+uname -a
+
+Thu, 17 Nov 2011 06:17:14 +0000 	vindaa	->	vindaa	gsun21	
+uname -a
+
+Thu, 17 Nov 2011 06:17:17 +0000 	vindaa	->	vindaa	gsun178	
+uname -a
+
+Thu, 17 Nov 2011 06:25:40 +0000 	vindaa	->	vindaa	gsun21	
+uname -a
+
+Thu, 17 Nov 2011 06:25:43 +0000 	vindaa	->	vindaa	gsun178	
+uname -a
+
+Mon, 21 Nov 2011 16:12:53 +0000 	vindaa	->	vindaa	amrndhs265	
+showrev -p | egrep '117461-06|119254-34|118833-36|125418-01'
+
+Mon, 21 Nov 2011 16:13:00 +0000 	vindaa	->	vindaa	amrndhs283	
+showrev -p | egrep '117461-06|119254-34|118833-36|125418-01'
+
+Mon, 21 Nov 2011 16:13:08 +0000 	vindaa	->	vindaa	amrndhs266	
+showrev -p | egrep '117461-06|119254-34|118833-36|125418-01'
+
+Mon, 21 Nov 2011 16:13:14 +0000 	vindaa	->	vindaa	amrndhs284	
+showrev -p | egrep '117461-06|119254-34|118833-36|125418-01'
+
+Mon, 21 Nov 2011 16:17:08 +0000 	vindaa	->	vindaa	amrndhs265	
+showrev -p | grep 117461-06 && echo '117461-06 found'; showrev -p | grep 119254-34 && echo '119254-34 found'; showrev -p | grep 118833-36 && echo '118833-36 found' ; showrev -p | grep 125418-01 && echo '125418-01 found'
+
+Mon, 21 Nov 2011 16:17:15 +0000 	vindaa	->	vindaa	amrndhs283	
+showrev -p | grep 117461-06 && echo '117461-06 found'; showrev -p | grep 119254-34 && echo '119254-34 found'; showrev -p | grep 118833-36 && echo '118833-36 found' ; showrev -p | grep 125418-01 && echo '125418-01 found'
+
+Mon, 21 Nov 2011 16:20:04 +0000 	vindaa	->	vindaa	amrndhs284	
+showrev -p | grep 117461-06 && echo '117461-06 found'; showrev -p | grep 119254-34 && echo '119254-34 found'; showrev -p | grep 118833-36 && echo '118833-36 found' ; showrev -p | grep 125418-01 && echo '125418-01 found'
+
+Mon, 21 Nov 2011 16:22:54 +0000 	vindaa	->	vindaa	amrndhs265	
+showrev -p | grep 117461-06 && echo '117461-06 found'; showrev -p | grep 119254-34 && echo '119254-34 found'; showrev -p | grep 118833-36 && echo '118833-36 found' ; showrev -p | grep 125418-01 && echo '125418-01 found'
+
+Mon, 21 Nov 2011 16:23:01 +0000 	vindaa	->	vindaa	amrndhs283	
+showrev -p | grep 117461-06 && echo '117461-06 found'; showrev -p | grep 119254-34 && echo '119254-34 found'; showrev -p | grep 118833-36 && echo '118833-36 found' ; showrev -p | grep 125418-01 && echo '125418-01 found'
+
+Mon, 21 Nov 2011 16:23:15 +0000 	vindaa	->	vindaa	amrndhs266	
+showrev -p | grep 117461-06 && echo '117461-06 found'; showrev -p | grep 119254-34 && echo '119254-34 found'; showrev -p | grep 118833-36 && echo '118833-36 found' ; showrev -p | grep 125418-01 && echo '125418-01 found'
+
+Mon, 21 Nov 2011 16:23:24 +0000 	vindaa	->	vindaa	amrndhs284	
+showrev -p | grep 117461-06 && echo '117461-06 found'; showrev -p | grep 119254-34 && echo '119254-34 found'; showrev -p | grep 118833-36 && echo '118833-36 found' ; showrev -p | grep 125418-01 && echo '125418-01 found'
+
+Tue, 22 Nov 2011 07:38:06 +0000 	vindaa	->	vindaa	amrndhl013	
+id -a epharmt; id -a epharmd
+
+Tue, 22 Nov 2011 07:38:13 +0000 	vindaa	->	vindaa	gsun392	
+id -a epharmt; id -a epharmd
+
+Tue, 22 Nov 2011 07:38:44 +0000 	vindaa	->	vindaa	gsun81	
+id -a epharmt; id -a epharmd
+
+Tue, 22 Nov 2011 07:38:52 +0000 	vindaa	->	vindaa	amrndhs124	
+id -a epharmt; id -a epharmd
+
+Tue, 22 Nov 2011 08:10:35 +0000 	vindaa	->	vindaa	amrndhl013	
+id -a epharmt
+
+Tue, 22 Nov 2011 08:12:44 +0000 	vindaa	->	vindaa	amrndhl013	
+id -a epharmt
+
+Tue, 22 Nov 2011 08:12:51 +0000 	vindaa	->	vindaa	gsun392	
+id -a epharmt
+
+Tue, 22 Nov 2011 08:16:11 +0000 	vindaa	->	vindaa	amrndhs124	
+id -a epharmt
+
+Tue, 22 Nov 2011 08:19:39 +0000 	vindaa	->	vindaa	amrndhl013	
+id -nG epharmt
+
+Tue, 22 Nov 2011 08:19:43 +0000 	vindaa	->	vindaa	gsun392	
+id -nG epharmt
+
+Tue, 22 Nov 2011 08:19:51 +0000 	vindaa	->	vindaa	gsun81	
+id -nG epharmt
+
+Tue, 22 Nov 2011 08:19:53 +0000 	vindaa	->	vindaa	amrndhs124	
+id -nG epharmt
+
+Tue, 22 Nov 2011 08:21:06 +0000 	vindaa	->	vindaa	amrndhl013	
+id -a epharmt
+
+Tue, 22 Nov 2011 08:21:11 +0000 	vindaa	->	vindaa	gsun392	
+id -a epharmt
+
+Tue, 22 Nov 2011 08:21:16 +0000 	vindaa	->	vindaa	gsun81	
+id -a epharmt
+
+Tue, 22 Nov 2011 08:21:19 +0000 	vindaa	->	vindaa	amrndhs124	
+id -a epharmt
+
+Tue, 22 Nov 2011 08:23:03 +0000 	vindaa	->	vindaa	amrndhl013	
+uname -a ; id -a epharmt
+
+Tue, 22 Nov 2011 08:23:08 +0000 	vindaa	->	vindaa	gsun392	
+uname -a ; id -a epharmt
+
+Tue, 22 Nov 2011 08:26:26 +0000 	vindaa	->	vindaa	amrndhs124	
+uname -a ; id -a epharmt
+

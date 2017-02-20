@@ -1,0 +1,2 @@
+hostname
+rpm -qa | grep -i uc4

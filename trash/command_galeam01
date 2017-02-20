@@ -1,0 +1,5 @@
+uname -a
+domainname
+ypwhich
+adinof -a
+echo "---------"

@@ -1,0 +1,260 @@
+
+========== amrndhl060 - 1 ==========
+Access to amrndhl060 successful as fernam48 with first password.
+/usr/local/bin/sudo adkeytab -V --addspn --principal lsf --upn lsf/localhost.localdomain@AMER.PFIZER.COM --user amrxov-fernam48@AMER.PFIZER.COM
+
+
+========== amrndhl061 - 2 ==========
+Access to amrndhl061 successful as fernam48 with first password.
+/usr/local/bin/sudo adkeytab -V --addspn --principal lsf --upn lsf/localhost.localdomain@AMER.PFIZER.COM --user amrxov-fernam48@AMER.PFIZER.COM
+
+
+========== amrndhl062 - 3 ==========
+
+========== amrndhl060 - 1 ==========
+Access to amrndhl060 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl061 - 2 ==========
+Access to amrndhl061 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl062 - 3 ==========
+Access to amrndhl062 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl063 - 4 ==========
+Access to amrndhl063 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl064 - 5 ==========
+Access to amrndhl064 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl065 - 6 ==========
+Access to amrndhl065 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl066 - 7 ==========
+Access to amrndhl066 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl067 - 8 ==========
+Access to amrndhl067 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl068 - 9 ==========
+Access to amrndhl068 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl069 - 10 ==========
+Access to amrndhl069 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl070 - 11 ==========
+Access to amrndhl070 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl071 - 12 ==========
+Access to amrndhl071 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl072 - 13 ==========
+Access to amrndhl072 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl073 - 14 ==========
+Access to amrndhl073 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl074 - 15 ==========
+Access to amrndhl074 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl075 - 16 ==========
+Access to amrndhl075 successful as fernam48 with first password.
+egrep nopag /etc/pam.d/system-auth
+
+
+========== amrndhl060 - 1 ==========
+Access to amrndhl060 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl065 - 2 ==========
+Access to amrndhl065 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl068 - 3 ==========
+Access to amrndhl068 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl070 - 4 ==========
+Access to amrndhl070 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl072 - 5 ==========
+Access to amrndhl072 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl060 - 1 ==========
+Access to amrndhl060 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl061 - 2 ==========
+Access to amrndhl061 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl062 - 3 ==========
+Access to amrndhl062 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl063 - 4 ==========
+Access to amrndhl063 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl064 - 5 ==========
+Access to amrndhl064 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl065 - 6 ==========
+Access to amrndhl065 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl066 - 7 ==========
+Access to amrndhl066 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl067 - 8 ==========
+Access to amrndhl067 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl068 - 9 ==========
+Access to amrndhl068 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl069 - 10 ==========
+Access to amrndhl069 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl070 - 11 ==========
+Access to amrndhl070 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl071 - 12 ==========
+Access to amrndhl071 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl072 - 13 ==========
+Access to amrndhl072 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl073 - 14 ==========
+Access to amrndhl073 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl074 - 15 ==========
+Access to amrndhl074 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+========== amrndhl075 - 16 ==========
+Access to amrndhl075 successful as fernam48 with first password.
+/usr/local/bin/pbrun adflush
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+

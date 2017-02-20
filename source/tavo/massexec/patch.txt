@@ -1,0 +1,870 @@
+
+========== amrndhl302 - 1 ==========
+Access to amrndhl302 successful as argueg with first password.
+ps -ef|grep -i uc4
+
+uc4sched  9113     1  0 13:20 ?        00:00:00 /opt/uc4g/uc4omp/amrndhl302/smgr/bin/ucybsmgr -i/opt/uc4g/uc4omp/amrndhl302/smgr/bin/ucybsmgr.ini uc4omp
+root      9726  9113  0 13:20 ?        00:00:00 /opt/uc4g/uc4omp/amrndhl302/smgr/bin/../../executor/bin/UCXJLI3
+argueg   20175 20174  0 15:12 ?        00:00:00 grep -i uc4
+
+
+------------------------------------
+
+========== amrndhl304 - 2 ==========
+Access to amrndhl304 successful as argueg with first password.
+ps -ef|grep -i uc4
+
+uc4sched 10071     1  0 13:22 ?        00:00:00 /opt/uc4g/uc4omp/amrndhl304/smgr/bin/ucybsmgr -i/opt/uc4g/uc4omp/amrndhl304/smgr/bin/ucybsmgr.ini uc4omp
+root     10684 10071  0 13:22 ?        00:00:00 /opt/uc4g/uc4omp/amrndhl304/smgr/bin/../../executor/bin/UCXJLI3
+argueg   22002 22001  0 15:12 ?        00:00:00 ksh -c ps -ef|grep -i uc4
+argueg   22004 22002  0 15:12 ?        00:00:00 grep -i uc4
+
+
+------------------------------------
+
+========== amrndhl306 - 3 ==========
+Access to amrndhl306 successful as argueg with first password.
+ps -ef|grep -i uc4
+
+uc4sched 10464     1  0 13:35 ?        00:00:00 /opt/uc4g/uc4omp/amrndhl306/smgr/bin/ucybsmgr -i/opt/uc4g/uc4omp/amrndhl306/smgr/bin/ucybsmgr.ini uc4omp
+root     10592 10464  0 13:35 ?        00:00:00 /opt/uc4g/uc4omp/amrndhl306/smgr/bin/../../executor/bin/UCXJLI3
+argueg   32158 32157  0 15:12 ?        00:00:00 grep -i uc4
+
+
+------------------------------------
+
+========== amrndhl317 - 4 ==========
+Access to amrndhl317 successful as argueg with first password.
+ps -ef|grep -i uc4
+
+argueg    9293  9292  0 15:12 ?        00:00:00 grep -i uc4
+uc4sched 26517     1  0 15:01 ?        00:00:00 /opt/uc4g/uc4omp/amrndhl317/smgr/bin/ucybsmgr -i/opt/uc4g/uc4omp/amrndhl317/smgr/bin/ucybsmgr.ini uc4omp
+root     27090 26517  0 15:01 ?        00:00:00 /opt/uc4g/uc4omp/amrndhl317/smgr/bin/../../executor/bin/UCXJLI3
+
+
+------------------------------------
+
+========== amrndhl320 - 5 ==========
+Access to amrndhl320 successful as argueg with first password.
+ps -ef|grep -i uc4
+
+uc4sched 10550     1  0 15:02 ?        00:00:00 /opt/uc4g/uc4omp/amrndhl320/smgr/bin/ucybsmgr -i/opt/uc4g/uc4omp/amrndhl320/smgr/bin/ucybsmgr.ini uc4omp
+root     10813 10550  0 15:02 ?        00:00:00 /opt/uc4g/uc4omp/amrndhl320/smgr/bin/../../executor/bin/UCXJLI3
+argueg   25662 25661  0 15:12 ?        00:00:00 grep -i uc4
+
+
+------------------------------------
+
+========== amrndhl329 - 6 ==========
+Access to amrndhl329 successful as argueg with first password.
+ps -ef|grep -i uc4
+
+uc4sched 20291     1  0 15:02 ?        00:00:00 /opt/uc4g/uc4omp/amrndhl329/smgr/bin/ucybsmgr -i/opt/uc4g/uc4omp/amrndhl329/smgr/bin/ucybsmgr.ini uc4omp
+root     20372 20291  0 15:03 ?        00:00:00 /opt/uc4g/uc4omp/amrndhl329/smgr/bin/../../executor/bin/UCXJLI3
+argueg   22301 22300  0 15:12 ?        00:00:00 ksh -c ps -ef|grep -i uc4
+argueg   22303 22301  0 15:12 ?        00:00:00 grep -i uc4
+
+
+------------------------------------
+
+========== ASPSDCL009 - 7 ==========
+Access to ASPSDCL009 successful as argueg with first password.
+ps -ef|grep -i uc4
+
+argueg   10874 10873  0 03:17 ?        00:00:00 grep -i uc4
+
+
+------------------------------------
+
+========== ASPSDCL024 - 8 ==========
+Access to ASPSDCL024 successful as argueg with first password.
+ps -ef|grep -i uc4
+
+uc4sched  7562     1  0  2010 ?        00:00:00 /opt/uc4g/uc4omp/aspsdcl024/smgr/bin/ucybsmgr -i/opt/uc4g/uc4omp/aspsdcl024/smgr/bin/ucybsmgr.ini uc4omp
+argueg   25239 25238  0 03:16 ?        00:00:00 grep -i uc4
+root     27769  7562  0 May21 ?        00:00:04 /opt/uc4g/uc4omp/aspsdcl024/smgr/bin/../../executor/bin/UCXJLI3
+
+
+------------------------------------
+
+========== amrndhl241 - 9 ==========
+Access to amrndhl241 successful as argueg with first password.
+ps -ef|grep -i uc4
+
+uc4sched 12390     1  0 15:01 ?        00:00:00 /opt/uc4g/uc4omp/amrndhl241/smgr/bin/ucybsmgr -i/opt/uc4g/uc4omp/amrndhl241/smgr/bin/ucybsmgr.ini uc4omp
+root     12928 12390  0 15:02 ?        00:00:00 /opt/uc4g/uc4omp/amrndhl241/smgr/bin/../../executor/bin/UCXJLI3
+argueg   15495 15494  0 15:13 ?        00:00:00 grep -i uc4
+
+
+------------------------------------
+
+========== amrndhl302 - 1 ==========
+Access to amrndhl302 successful as argueg with first password.
+uname -r >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+cat /etc/redhat-release >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+yum repolist >>/var/tmp/postISRM.txt
+
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+
+
+------------------------------------
+
+yum check-update >>/var/tmp/postISRM.txt
+
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+
+
+------------------------------------
+
+cat /boot/grub/grub.conf >>/var/tmp/postISRM.txt
+
+cat: /boot/grub/grub.conf: Permission denied
+
+
+------------------------------------
+
+fdisk -l >>/var/tmp/postISRM.txt
+
+ksh: line 1: fdisk: not found
+
+
+------------------------------------
+
+df -lh >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+pvdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: pvdisplay: not found
+
+
+------------------------------------
+
+vgdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: vgdisplay: not found
+
+
+------------------------------------
+
+lvdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: lvdisplay: not found
+
+
+------------------------------------
+
+sbin/lspci >>/var/tmp/postISRM.txt
+
+ksh: line 1: sbin/lspci: not found
+
+
+------------------------------------
+
+sbin/lsusb >>/var/tmp/postISRM.txt
+
+ksh: line 1: sbin/lsusb: not found
+
+
+------------------------------------
+
+dmesg >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+ifconfig -a >>/var/tmp/postISRM.txt
+
+ksh: line 1: ifconfig: not found
+
+
+------------------------------------
+
+cat /etc/fstab >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+cat /etc/snmp/snmpd.conf >>/var/tmp/postISRM.txt
+
+cat: /etc/snmp/snmpd.conf: Permission denied
+
+
+------------------------------------
+
+========== amrndhl304 - 2 ==========
+Access to amrndhl304 successful as argueg with first password.
+uname -r >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+cat /etc/redhat-release >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+yum repolist >>/var/tmp/postISRM.txt
+
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+
+
+------------------------------------
+
+yum check-update >>/var/tmp/postISRM.txt
+
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+
+
+------------------------------------
+
+cat /boot/grub/grub.conf >>/var/tmp/postISRM.txt
+
+cat: /boot/grub/grub.conf: Permission denied
+
+
+------------------------------------
+
+fdisk -l >>/var/tmp/postISRM.txt
+
+ksh: line 1: fdisk: not found
+
+
+------------------------------------
+
+df -lh >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+pvdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: pvdisplay: not found
+
+
+------------------------------------
+
+vgdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: vgdisplay: not found
+
+
+------------------------------------
+
+lvdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: lvdisplay: not found
+
+
+------------------------------------
+
+sbin/lspci >>/var/tmp/postISRM.txt
+
+ksh: line 1: sbin/lspci: not found
+
+
+------------------------------------
+
+sbin/lsusb >>/var/tmp/postISRM.txt
+
+ksh: line 1: sbin/lsusb: not found
+
+
+------------------------------------
+
+dmesg >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+ifconfig -a >>/var/tmp/postISRM.txt
+
+ksh: line 1: ifconfig: not found
+
+
+------------------------------------
+
+cat /etc/fstab >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+cat /etc/snmp/snmpd.conf >>/var/tmp/postISRM.txt
+
+cat: /etc/snmp/snmpd.conf: Permission denied
+
+
+------------------------------------
+
+========== amrndhl306 - 3 ==========
+Access to amrndhl306 successful as argueg with first password.
+uname -r >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+cat /etc/redhat-release >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+yum repolist >>/var/tmp/postISRM.txt
+
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+
+
+------------------------------------
+
+yum check-update >>/var/tmp/postISRM.txt
+
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+
+
+------------------------------------
+
+cat /boot/grub/grub.conf >>/var/tmp/postISRM.txt
+
+cat: /boot/grub/grub.conf: Permission denied
+
+
+------------------------------------
+
+fdisk -l >>/var/tmp/postISRM.txt
+
+ksh: line 1: fdisk: not found
+
+
+------------------------------------
+
+df -lh >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+pvdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: pvdisplay: not found
+
+
+------------------------------------
+
+vgdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: vgdisplay: not found
+
+
+------------------------------------
+
+lvdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: lvdisplay: not found
+
+
+------------------------------------
+
+sbin/lspci >>/var/tmp/postISRM.txt
+
+ksh: line 1: sbin/lspci: not found
+
+
+------------------------------------
+
+sbin/lsusb >>/var/tmp/postISRM.txt
+
+ksh: line 1: sbin/lsusb: not found
+
+
+------------------------------------
+
+dmesg >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+ifconfig -a >>/var/tmp/postISRM.txt
+
+ksh: line 1: ifconfig: not found
+
+
+------------------------------------
+
+cat /etc/fstab >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+cat /etc/snmp/snmpd.conf >>/var/tmp/postISRM.txt
+
+cat: /etc/snmp/snmpd.conf: Permission denied
+
+
+------------------------------------
+
+========== amrndhl317 - 4 ==========
+Access to amrndhl317 successful as argueg with first password.
+uname -r >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+cat /etc/redhat-release >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+yum repolist >>/var/tmp/postISRM.txt
+
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+
+
+------------------------------------
+
+yum check-update >>/var/tmp/postISRM.txt
+
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+
+
+------------------------------------
+
+cat /boot/grub/grub.conf >>/var/tmp/postISRM.txt
+
+cat: /boot/grub/grub.conf: Permission denied
+
+
+------------------------------------
+
+fdisk -l >>/var/tmp/postISRM.txt
+
+ksh: line 1: fdisk: not found
+
+
+------------------------------------
+
+df -lh >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+pvdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: pvdisplay: not found
+
+
+------------------------------------
+
+vgdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: vgdisplay: not found
+
+
+------------------------------------
+
+lvdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: lvdisplay: not found
+
+
+------------------------------------
+
+sbin/lspci >>/var/tmp/postISRM.txt
+
+ksh: line 1: sbin/lspci: not found
+
+
+------------------------------------
+
+sbin/lsusb >>/var/tmp/postISRM.txt
+
+ksh: line 1: sbin/lsusb: not found
+
+
+------------------------------------
+
+dmesg >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+ifconfig -a >>/var/tmp/postISRM.txt
+
+ksh: line 1: ifconfig: not found
+
+
+------------------------------------
+
+cat /etc/fstab >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+cat /etc/snmp/snmpd.conf >>/var/tmp/postISRM.txt
+
+cat: /etc/snmp/snmpd.conf: Permission denied
+
+
+------------------------------------
+
+========== amrndhl320 - 5 ==========
+Access to amrndhl320 successful as argueg with first password.
+uname -r >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+cat /etc/redhat-release >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+yum repolist >>/var/tmp/postISRM.txt
+
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+
+
+------------------------------------
+
+yum check-update >>/var/tmp/postISRM.txt
+
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+
+
+------------------------------------
+
+cat /boot/grub/grub.conf >>/var/tmp/postISRM.txt
+
+cat: /boot/grub/grub.conf: Permission denied
+
+
+------------------------------------
+
+fdisk -l >>/var/tmp/postISRM.txt
+
+ksh: line 1: fdisk: not found
+
+
+------------------------------------
+
+df -lh >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+pvdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: pvdisplay: not found
+
+
+------------------------------------
+
+vgdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: vgdisplay: not found
+
+
+------------------------------------
+
+lvdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: lvdisplay: not found
+
+
+------------------------------------
+
+sbin/lspci >>/var/tmp/postISRM.txt
+
+ksh: line 1: sbin/lspci: not found
+
+
+------------------------------------
+
+sbin/lsusb >>/var/tmp/postISRM.txt
+
+ksh: line 1: sbin/lsusb: not found
+
+
+------------------------------------
+
+dmesg >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+ifconfig -a >>/var/tmp/postISRM.txt
+
+ksh: line 1: ifconfig: not found
+
+
+------------------------------------
+
+cat /etc/fstab >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+cat /etc/snmp/snmpd.conf >>/var/tmp/postISRM.txt
+
+cat: /etc/snmp/snmpd.conf: Permission denied
+
+
+------------------------------------
+
+========== amrndhl329 - 6 ==========
+Access to amrndhl329 successful as argueg with first password.
+uname -r >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+cat /etc/redhat-release >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+yum repolist >>/var/tmp/postISRM.txt
+
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+
+
+------------------------------------
+
+yum check-update >>/var/tmp/postISRM.txt
+
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+
+
+------------------------------------
+
+cat /boot/grub/grub.conf >>/var/tmp/postISRM.txt
+
+cat: /boot/grub/grub.conf: Permission denied
+
+
+------------------------------------
+
+fdisk -l >>/var/tmp/postISRM.txt
+
+ksh: line 1: fdisk: not found
+
+
+------------------------------------
+
+df -lh >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+pvdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: pvdisplay: not found
+
+
+------------------------------------
+
+vgdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: vgdisplay: not found
+
+
+------------------------------------
+
+lvdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: lvdisplay: not found
+
+
+------------------------------------
+
+sbin/lspci >>/var/tmp/postISRM.txt
+
+ksh: line 1: sbin/lspci: not found
+
+
+------------------------------------
+
+sbin/lsusb >>/var/tmp/postISRM.txt
+
+ksh: line 1: sbin/lsusb: not found
+
+
+------------------------------------
+
+dmesg >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+ifconfig -a >>/var/tmp/postISRM.txt
+
+ksh: line 1: ifconfig: not found
+
+
+------------------------------------
+
+cat /etc/fstab >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+cat /etc/snmp/snmpd.conf >>/var/tmp/postISRM.txt
+
+cat: /etc/snmp/snmpd.conf: No such file or directory
+
+
+------------------------------------
+
+========== ASPSDCL009 - 7 ==========
+SSH error in first connection for server ASPSDCL009
+Trying second password for server ASPSDCL009 
+=!! Authentication error connecting server ASPSDCL009 !!=
+========== ASPSDCL024 - 8 ==========
+SSH error in first connection for server ASPSDCL024
+Trying second password for server ASPSDCL024 
+=!! Authentication error connecting server ASPSDCL024 !!=
+========== amrndhl241 - 9 ==========
+Access to amrndhl241 successful as argueg with first password.
+uname -r >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+cat /etc/redhat-release >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+yum repolist >>/var/tmp/postISRM.txt
+
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+
+
+------------------------------------
+
+yum check-update >>/var/tmp/postISRM.txt
+
+*Note* Red Hat Network repositories are not listed below. You must run this command as root to access RHN repositories.
+
+
+------------------------------------
+
+cat /boot/grub/grub.conf >>/var/tmp/postISRM.txt
+
+cat: /boot/grub/grub.conf: Permission denied
+
+
+------------------------------------
+
+fdisk -l >>/var/tmp/postISRM.txt
+
+ksh: line 1: fdisk: not found
+
+
+------------------------------------
+
+df -lh >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+pvdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: pvdisplay: not found
+
+
+------------------------------------
+
+vgdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: vgdisplay: not found
+
+
+------------------------------------
+
+lvdisplay >>/var/tmp/postISRM.txt
+
+ksh: line 1: lvdisplay: not found
+
+
+------------------------------------
+
+sbin/lspci >>/var/tmp/postISRM.txt
+
+ksh: line 1: sbin/lspci: not found
+
+
+------------------------------------
+
+sbin/lsusb >>/var/tmp/postISRM.txt
+
+ksh: line 1: sbin/lsusb: not found
+
+
+------------------------------------
+
+dmesg >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+ifconfig -a >>/var/tmp/postISRM.txt
+
+ksh: line 1: ifconfig: not found
+
+
+------------------------------------
+
+cat /etc/fstab >>/var/tmp/postISRM.txt
+
+
+
+------------------------------------
+
+cat /etc/snmp/snmpd.conf >>/var/tmp/postISRM.txt
+
+cat: /etc/snmp/snmpd.conf: No such file or directory
+
+
+------------------------------------

@@ -1,0 +1,139 @@
+
+========== GSUN874 - 1 ==========
+Access to GSUN874 successful as baltol with first password.
+uname -a
+
+SunOS gsun874 5.9 Generic_122300-47 sun4u sparc SUNW,Sun-Fire-V490
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.97  gsun874.pfizer.com gsun874	loghost
+148.168.66.99  gsun874t0 gsun874t0.pfizer.com
+148.168.66.100  gsun874t1 gsun874t1.pfizer.com
+148.168.66.125  wlsprd5 wlsprd5.pfizer.com
+148.168.66.130  wlsadmprd5 wlsadmprd5.pfizer.com
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== GSUN912 - 2 ==========
+Access to GSUN912 successful as baltol with first password.
+uname -a
+
+SunOS gsun912 5.9 Generic_122300-56 sun4u sparc SUNW,Sun-Fire-V490
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.204  gsun912.pfizer.com gsun912 loghost
+148.168.66.205  gsun912t0 gsun912t0.pfizer.com
+148.168.66.207  gsun912t1 gsun912t1.pfizer.com
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== GSUN590 - 3 ==========
+SSH error in first connection for server GSUN590
+Trying second password for server GSUN590 
+=!! Authentication error connecting server GSUN590 !!=
+========== GSUN915 - 4 ==========
+Access to GSUN915 successful as baltol with first password.
+uname -a
+
+SunOS gsun915 5.9 Generic_122300-56 sun4u sparc SUNW,Sun-Fire-V490
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.178  gsun915.pfizer.com gsun915 loghost
+148.168.66.187  gsun915t0 gsun915t0.pfizer.com
+148.168.66.192  gsun915t1 gsun915t1.pfizer.com
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== GSUN917 - 5 ==========
+SSH error in first connection for server GSUN917
+Trying second password for server GSUN917 
+=!! Authentication error connecting server GSUN917 !!=
+========== GSUN921 - 6 ==========
+Access to GSUN921 successful as baltol with first password.
+uname -a
+
+SunOS gsun921 5.9 Generic_122300-56 sun4u sparc SUNW,Sun-Fire-V490
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+#148.168.66.234  gsun921 gsun921.pfizer.com loghost
+#148.168.66.236  gsun921t0 gsun921t0.pfizer.com
+#148.168.66.237  gsun921t1 gsun921t1.pfizer.com
+#148.168.66.203  wlstst8	wlstst8.pfizer.com
+#148.168.66.195  wlsadmtst8 wlsadmtst8.pfizer.com
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== gsun886 - 7 ==========
+Access to gsun886 successful as baltol with first password.
+uname -a
+
+SunOS gsun886 5.9 Generic_122300-56 sun4u sparc SUNW,Netra-T12
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== gsun873 - 8 ==========
+SSH error in first connection for server gsun873
+Trying second password for server gsun873 
+=!! Authentication error connecting server gsun873 !!=

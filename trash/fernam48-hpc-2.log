@@ -1,0 +1,96 @@
+
+========== amrndhl060 - 1 ==========
+Access to amrndhl060 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl061 - 2 ==========
+Access to amrndhl061 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl062 - 3 ==========
+Access to amrndhl062 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl063 - 4 ==========
+Access to amrndhl063 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl064 - 5 ==========
+Access to amrndhl064 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl065 - 6 ==========
+Access to amrndhl065 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl066 - 7 ==========
+Access to amrndhl066 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl067 - 8 ==========
+Access to amrndhl067 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl068 - 9 ==========
+Access to amrndhl068 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl069 - 10 ==========
+Access to amrndhl069 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl070 - 11 ==========
+Access to amrndhl070 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl071 - 12 ==========
+Access to amrndhl071 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl072 - 13 ==========
+Access to amrndhl072 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl073 - 14 ==========
+Access to amrndhl073 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl074 - 15 ==========
+Access to amrndhl074 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+
+
+========== amrndhl075 - 16 ==========
+Access to amrndhl075 successful as fernam48 with first password.
+egrep afs /etc/pam.d/system-auth
+session     required      pam_afs_session.so retain_after_close debug ignore_root program=/usr/bin/aklog always_aklog
+

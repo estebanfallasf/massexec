@@ -1,0 +1,358 @@
+DEB [20110218-09:46:49.248] thr=1   paramiko.transport: starting thread (client mode): 0xB7BEEB8CL
+INF [20110218-09:46:49.300] thr=1   paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:46:49.330] thr=1   paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:46:49.330] thr=1   paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:46:49.330] thr=1   paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:46:49.617] thr=1   paramiko.transport: Switch to new keys ...
+DEB [20110218-09:46:49.619] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL202: 91bbd8e7083aaae258117bbe023d9b08
+DEB [20110218-09:46:49.620] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:46:49.722] thr=1   paramiko.transport: userauth is OK
+INF [20110218-09:46:50.143] thr=1   paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:46:50.157] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:46:50.248] thr=1   paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:46:50.248] thr=1   paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:46:50.294] thr=1   paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:46:58.001] thr=1   paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:46:58.001] thr=1   paramiko.transport: EOF in transport thread
+DEB [20110218-09:47:08.319] thr=3   paramiko.transport: starting thread (client mode): 0xB7BEEE6CL
+INF [20110218-09:47:08.354] thr=3   paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:47:08.383] thr=3   paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:47:08.383] thr=3   paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:47:08.384] thr=3   paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:47:08.663] thr=3   paramiko.transport: Switch to new keys ...
+DEB [20110218-09:47:08.664] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL168: 26a536609c3a0e208375105f79f1388d
+DEB [20110218-09:47:08.665] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:47:08.760] thr=3   paramiko.transport: userauth is OK
+INF [20110218-09:47:09.164] thr=3   paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:47:09.173] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:47:09.264] thr=3   paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:47:09.264] thr=3   paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:47:09.304] thr=3   paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:47:16.808] thr=3   paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:47:19.585] thr=4   paramiko.transport: starting thread (client mode): 0xB7BEE9ECL
+INF [20110218-09:47:19.621] thr=4   paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:47:19.656] thr=4   paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:47:19.656] thr=4   paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:47:19.656] thr=4   paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:47:19.942] thr=4   paramiko.transport: Switch to new keys ...
+DEB [20110218-09:47:19.943] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL108: 79a78d5286060c3b7aa54902a9e9c641
+DEB [20110218-09:47:19.944] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:47:20.039] thr=4   paramiko.transport: userauth is OK
+INF [20110218-09:47:20.895] thr=4   paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:47:20.918] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:47:21.014] thr=4   paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:47:21.014] thr=4   paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:47:21.051] thr=4   paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:47:23.629] thr=4   paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:47:23.629] thr=4   paramiko.transport: [chan 1] EOF sent (1)
+DEB [20110218-09:47:23.731] thr=4   paramiko.transport: EOF in transport thread
+DEB [20110218-09:47:28.420] thr=5   paramiko.transport: starting thread (client mode): 0xB7BEEC6CL
+INF [20110218-09:47:28.457] thr=5   paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:47:28.486] thr=5   paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:47:28.486] thr=5   paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:47:28.486] thr=5   paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:47:28.773] thr=5   paramiko.transport: Switch to new keys ...
+DEB [20110218-09:47:28.775] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL109: c0c8c6e1a8c6a0d10c1ed6a5372b566e
+DEB [20110218-09:47:28.777] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:47:28.869] thr=5   paramiko.transport: userauth is OK
+INF [20110218-09:47:29.456] thr=5   paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:47:29.485] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:47:29.574] thr=5   paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:47:29.574] thr=5   paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:47:29.617] thr=5   paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:47:31.993] thr=5   paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:47:31.994] thr=5   paramiko.transport: [chan 1] EOF sent (1)
+DEB [20110218-09:47:32.095] thr=5   paramiko.transport: EOF in transport thread
+DEB [20110218-09:47:34.549] thr=6   paramiko.transport: starting thread (client mode): 0xB7BEEBACL
+INF [20110218-09:47:34.590] thr=6   paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:47:34.627] thr=6   paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:47:34.627] thr=6   paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:47:34.627] thr=6   paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:47:34.914] thr=6   paramiko.transport: Switch to new keys ...
+DEB [20110218-09:47:34.916] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL153: 45fe2bce656669cee76c32226c80d0a1
+DEB [20110218-09:47:34.917] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:47:35.025] thr=6   paramiko.transport: userauth is OK
+INF [20110218-09:47:36.089] thr=6   paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:47:36.092] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:47:36.154] thr=6   paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:47:36.154] thr=6   paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:47:36.193] thr=6   paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:47:38.467] thr=6   paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:47:43.889] thr=7   paramiko.transport: starting thread (client mode): 0xB7BEEE2CL
+INF [20110218-09:47:43.923] thr=7   paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:47:43.953] thr=7   paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:47:43.953] thr=7   paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:47:43.953] thr=7   paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:47:44.233] thr=7   paramiko.transport: Switch to new keys ...
+DEB [20110218-09:47:44.234] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL154: f555a017eddc41d435f54aa91a69304c
+DEB [20110218-09:47:44.236] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:47:44.332] thr=7   paramiko.transport: userauth is OK
+INF [20110218-09:47:45.798] thr=7   paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:47:45.818] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:47:46.120] thr=7   paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:47:46.120] thr=7   paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:47:46.151] thr=7   paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:47:49.599] thr=7   paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:47:53.983] thr=8   paramiko.transport: starting thread (client mode): 0xB7BEE98CL
+INF [20110218-09:47:54.041] thr=8   paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:47:54.070] thr=8   paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:47:54.070] thr=8   paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:47:54.070] thr=8   paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:47:54.357] thr=8   paramiko.transport: Switch to new keys ...
+DEB [20110218-09:47:54.358] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL315: 5636f62a1c262ed2f63f8ce3dc4643d4
+DEB [20110218-09:47:54.360] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:47:54.453] thr=8   paramiko.transport: userauth is OK
+INF [20110218-09:47:55.271] thr=8   paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:47:55.273] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:47:55.463] thr=8   paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:47:55.463] thr=8   paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:47:55.512] thr=8   paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:48:03.115] thr=8   paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:48:03.115] thr=8   paramiko.transport: [chan 1] EOF sent (1)
+DEB [20110218-09:48:03.216] thr=8   paramiko.transport: EOF in transport thread
+DEB [20110218-09:48:03.628] thr=9   paramiko.transport: starting thread (client mode): 0xB7BEEC4CL
+INF [20110218-09:48:03.684] thr=9   paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:48:03.721] thr=9   paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:48:03.721] thr=9   paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:48:03.721] thr=9   paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:48:04.011] thr=9   paramiko.transport: Switch to new keys ...
+DEB [20110218-09:48:04.012] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL205: bea731dfa95aed3dc3ce4f45479dae7a
+DEB [20110218-09:48:04.014] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:48:04.120] thr=9   paramiko.transport: userauth is OK
+INF [20110218-09:48:04.658] thr=9   paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:48:04.684] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:48:04.752] thr=9   paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:48:04.753] thr=9   paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:48:04.827] thr=9   paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:48:07.887] thr=9   paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:48:08.224] thr=1   paramiko.transport: starting thread (client mode): 0xB7BEEB8CL
+INF [20110218-09:48:08.273] thr=1   paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:48:08.360] thr=1   paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:48:08.360] thr=1   paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:48:08.360] thr=1   paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:48:08.641] thr=1   paramiko.transport: Switch to new keys ...
+DEB [20110218-09:48:08.643] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL204: 99cf4377ddab37ea2b1ce871cc5ffee7
+DEB [20110218-09:48:08.644] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:48:08.732] thr=1   paramiko.transport: userauth is OK
+INF [20110218-09:48:09.707] thr=1   paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:48:09.718] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:48:09.808] thr=1   paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:48:09.808] thr=1   paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:48:09.856] thr=1   paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:48:13.111] thr=1   paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:48:13.112] thr=1   paramiko.transport: [chan 1] EOF sent (1)
+DEB [20110218-09:48:13.212] thr=1   paramiko.transport: EOF in transport thread
+DEB [20110218-09:48:13.511] thr=10  paramiko.transport: starting thread (client mode): 0xB7BEECACL
+INF [20110218-09:48:13.544] thr=10  paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:48:13.573] thr=10  paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:48:13.573] thr=10  paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:48:13.573] thr=10  paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:48:13.852] thr=10  paramiko.transport: Switch to new keys ...
+DEB [20110218-09:48:13.854] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL169: b45ebca79cc024b57a8dd1d8daf8b687
+DEB [20110218-09:48:13.855] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:48:13.949] thr=10  paramiko.transport: userauth is OK
+INF [20110218-09:48:14.254] thr=10  paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:48:14.263] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:48:14.325] thr=10  paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:48:14.325] thr=10  paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:48:14.359] thr=10  paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:48:16.417] thr=10  paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:48:16.417] thr=10  paramiko.transport: [chan 1] EOF sent (1)
+DEB [20110218-09:48:16.519] thr=10  paramiko.transport: EOF in transport thread
+DEB [20110218-09:48:16.885] thr=11  paramiko.transport: starting thread (client mode): 0xB7BEEE4CL
+INF [20110218-09:48:16.918] thr=11  paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:48:16.947] thr=11  paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:48:16.948] thr=11  paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:48:16.948] thr=11  paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:48:17.225] thr=11  paramiko.transport: Switch to new keys ...
+DEB [20110218-09:48:17.227] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL059: 897c6dedcf90c192c928e7c90d2c7b0a
+DEB [20110218-09:48:17.228] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:48:17.325] thr=11  paramiko.transport: userauth is OK
+INF [20110218-09:48:17.592] thr=11  paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:48:17.598] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:48:17.628] thr=11  paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:48:17.628] thr=11  paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:48:17.661] thr=11  paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:48:19.625] thr=11  paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:48:19.626] thr=11  paramiko.transport: EOF in transport thread
+DEB [20110218-09:48:20.179] thr=12  paramiko.transport: starting thread (client mode): 0xB7BEE80CL
+INF [20110218-09:48:20.225] thr=12  paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:48:20.261] thr=12  paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:48:20.261] thr=12  paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:48:20.261] thr=12  paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:48:20.549] thr=12  paramiko.transport: Switch to new keys ...
+DEB [20110218-09:48:20.550] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL146: 3bccad923d49e623adbf007c3a1bc4bb
+DEB [20110218-09:48:20.552] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:48:20.661] thr=12  paramiko.transport: userauth is OK
+INF [20110218-09:48:21.042] thr=12  paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:48:21.057] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:48:21.130] thr=12  paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:48:21.131] thr=12  paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:48:21.196] thr=12  paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:48:23.322] thr=12  paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:48:23.323] thr=12  paramiko.transport: [chan 1] EOF sent (1)
+DEB [20110218-09:48:23.424] thr=12  paramiko.transport: EOF in transport thread
+DEB [20110218-09:48:25.803] thr=13  paramiko.transport: starting thread (client mode): 0xB7BEEC2CL
+INF [20110218-09:48:25.840] thr=13  paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:48:25.873] thr=13  paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:48:25.874] thr=13  paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:48:25.874] thr=13  paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:48:26.148] thr=13  paramiko.transport: Switch to new keys ...
+DEB [20110218-09:48:26.149] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL147: 828ce03ffdbb37587cd98693df498bfa
+DEB [20110218-09:48:26.151] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:48:26.246] thr=13  paramiko.transport: userauth is OK
+INF [20110218-09:48:27.265] thr=13  paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:48:27.268] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:48:27.377] thr=13  paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:48:27.378] thr=13  paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:48:27.415] thr=13  paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:48:29.922] thr=13  paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:48:29.923] thr=13  paramiko.transport: EOF in transport thread
+DEB [20110218-09:48:35.255] thr=14  paramiko.transport: starting thread (client mode): 0xB7BEECECL
+INF [20110218-09:48:35.290] thr=14  paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:48:35.319] thr=14  paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:48:35.319] thr=14  paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:48:35.320] thr=14  paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:48:35.597] thr=14  paramiko.transport: Switch to new keys ...
+DEB [20110218-09:48:35.598] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL148: da54f9d320f732098273bf143ab246c0
+DEB [20110218-09:48:35.600] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:48:35.695] thr=14  paramiko.transport: userauth is OK
+INF [20110218-09:48:36.176] thr=14  paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:48:36.209] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:48:36.269] thr=14  paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:48:36.269] thr=14  paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:48:36.303] thr=14  paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:48:38.392] thr=14  paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:48:38.791] thr=3   paramiko.transport: starting thread (client mode): 0xB7BEEE6CL
+INF [20110218-09:48:38.836] thr=3   paramiko.transport: Connected (version 2.0, client OpenSSH_5.2)
+DEB [20110218-09:48:38.874] thr=3   paramiko.transport: kex algos:['gss-gex-sha1-toWM5Slw5Ew8Mqkay+al2g==', 'gss-group1-sha1-toWM5Slw5Ew8Mqkay+al2g==', 'gss-group14-sha1-toWM5Slw5Ew8Mqkay+al2g==', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'arcfour256', 'arcfour128', 'aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'aes192-cbc', 'aes256-cbc', 'arcfour', 'rijndael-cbc@lysator.liu.se'] server encrypt:['aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'arcfour256', 'arcfour128', 'aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'aes192-cbc', 'aes256-cbc', 'arcfour', 'rijndael-cbc@lysator.liu.se'] client mac:['hmac-md5', 'hmac-sha1', 'umac-64@openssh.com', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'umac-64@openssh.com', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:48:38.875] thr=3   paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:48:38.875] thr=3   paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:48:39.216] thr=3   paramiko.transport: Switch to new keys ...
+DEB [20110218-09:48:39.218] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL064: 35e3bb38547da6850b0d962f8478d1ed
+DEB [20110218-09:48:39.219] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:48:39.288] thr=3   paramiko.transport: userauth is OK
+INF [20110218-09:48:40.041] thr=3   paramiko.transport: Auth banner: 
+The computer system (including all software, electronic mail, and the network)
+you have accessed is for the sole use of Company-authorized users (including
+contractors, consultants, and Company employees) in their conduct of Company-
+related business.  Anything created, obtained or retained on the system is the
+property of the Company. 
+
+Limited personal use of the system is allowed in line with the Information and
+Communication Technology - Personal Use Policy, the full text of which is
+available on Divisional HR websites.
+
+All persons accessing the system without, or in excess of, their authority or
+otherwise inappropriately using the system are subject to disciplinary action,
+including termination, and/or criminal prosecution. 
+
+The Company regularly monitors the system for maintenance and to investigate
+the activities of individuals suspected of improper usage.  Anyone using the
+system hereby consents to such monitoring.  Any suspected misuse should be
+immediately reported to the location Corporate Security representative. 
+
+System users are accountable for the use and security of their passwords.
+
+
+INF [20110218-09:48:40.041] thr=3   paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:48:40.046] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:48:40.135] thr=3   paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:48:40.135] thr=3   paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:48:40.188] thr=3   paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:48:47.050] thr=3   paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:48:47.050] thr=3   paramiko.transport: [chan 1] EOF sent (1)
+DEB [20110218-09:48:47.051] thr=3   paramiko.transport: EOF in transport thread
+DEB [20110218-09:48:51.472] thr=15  paramiko.transport: starting thread (client mode): 0xB7BEEDECL
+INF [20110218-09:48:51.521] thr=15  paramiko.transport: Connected (version 2.0, client OpenSSH_5.2)
+DEB [20110218-09:48:51.558] thr=15  paramiko.transport: kex algos:['gss-gex-sha1-toWM5Slw5Ew8Mqkay+al2g==', 'gss-group1-sha1-toWM5Slw5Ew8Mqkay+al2g==', 'gss-group14-sha1-toWM5Slw5Ew8Mqkay+al2g==', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'arcfour256', 'arcfour128', 'aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'aes192-cbc', 'aes256-cbc', 'arcfour', 'rijndael-cbc@lysator.liu.se'] server encrypt:['aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'arcfour256', 'arcfour128', 'aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'aes192-cbc', 'aes256-cbc', 'arcfour', 'rijndael-cbc@lysator.liu.se'] client mac:['hmac-md5', 'hmac-sha1', 'umac-64@openssh.com', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'umac-64@openssh.com', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:48:51.558] thr=15  paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:48:51.558] thr=15  paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:48:51.892] thr=15  paramiko.transport: Switch to new keys ...
+DEB [20110218-09:48:51.894] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL065: e5f47cc806ba02b787de32a33b228a27
+DEB [20110218-09:48:51.896] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:48:51.988] thr=15  paramiko.transport: userauth is OK
+INF [20110218-09:48:52.830] thr=15  paramiko.transport: Auth banner: 
+The computer system (including all software, electronic mail, and the network)
+you have accessed is for the sole use of Company-authorized users (including
+contractors, consultants, and Company employees) in their conduct of Company-
+related business.  Anything created, obtained or retained on the system is the
+property of the Company. 
+
+Limited personal use of the system is allowed in line with the Information and
+Communication Technology - Personal Use Policy, the full text of which is
+available on Divisional HR websites.
+
+All persons accessing the system without, or in excess of, their authority or
+otherwise inappropriately using the system are subject to disciplinary action,
+including termination, and/or criminal prosecution. 
+
+The Company regularly monitors the system for maintenance and to investigate
+the activities of individuals suspected of improper usage.  Anyone using the
+system hereby consents to such monitoring.  Any suspected misuse should be
+immediately reported to the location Corporate Security representative. 
+
+System users are accountable for the use and security of their passwords.
+
+
+INF [20110218-09:48:52.831] thr=15  paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:48:52.839] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:48:52.922] thr=15  paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:48:52.922] thr=15  paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:48:52.978] thr=15  paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:48:55.808] thr=15  paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:48:58.204] thr=6   paramiko.transport: starting thread (client mode): 0xB7BEEBACL
+INF [20110218-09:48:58.297] thr=6   paramiko.transport: Connected (version 2.0, client OpenSSH_5.2)
+DEB [20110218-09:48:58.326] thr=6   paramiko.transport: kex algos:['gss-gex-sha1-toWM5Slw5Ew8Mqkay+al2g==', 'gss-group1-sha1-toWM5Slw5Ew8Mqkay+al2g==', 'gss-group14-sha1-toWM5Slw5Ew8Mqkay+al2g==', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'arcfour256', 'arcfour128', 'aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'aes192-cbc', 'aes256-cbc', 'arcfour', 'rijndael-cbc@lysator.liu.se'] server encrypt:['aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'arcfour256', 'arcfour128', 'aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'aes192-cbc', 'aes256-cbc', 'arcfour', 'rijndael-cbc@lysator.liu.se'] client mac:['hmac-md5', 'hmac-sha1', 'umac-64@openssh.com', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'umac-64@openssh.com', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:48:58.326] thr=6   paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:48:58.326] thr=6   paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:48:58.642] thr=6   paramiko.transport: Switch to new keys ...
+DEB [20110218-09:48:58.644] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL066: ad631e847b11805ea05a2caaf8a4fd2b
+DEB [20110218-09:48:58.646] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:48:58.701] thr=6   paramiko.transport: userauth is OK
+INF [20110218-09:48:59.558] thr=6   paramiko.transport: Auth banner: 
+The computer system (including all software, electronic mail, and the network)
+you have accessed is for the sole use of Company-authorized users (including
+contractors, consultants, and Company employees) in their conduct of Company-
+related business.  Anything created, obtained or retained on the system is the
+property of the Company. 
+
+Limited personal use of the system is allowed in line with the Information and
+Communication Technology - Personal Use Policy, the full text of which is
+available on Divisional HR websites.
+
+All persons accessing the system without, or in excess of, their authority or
+otherwise inappropriately using the system are subject to disciplinary action,
+including termination, and/or criminal prosecution. 
+
+The Company regularly monitors the system for maintenance and to investigate
+the activities of individuals suspected of improper usage.  Anyone using the
+system hereby consents to such monitoring.  Any suspected misuse should be
+immediately reported to the location Corporate Security representative. 
+
+System users are accountable for the use and security of their passwords.
+
+
+INF [20110218-09:48:59.559] thr=6   paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:48:59.562] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:48:59.626] thr=6   paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:48:59.627] thr=6   paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:48:59.700] thr=6   paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:49:03.133] thr=6   paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:49:03.133] thr=6   paramiko.transport: EOF in transport thread
+DEB [20110218-09:49:07.475] thr=16  paramiko.transport: starting thread (client mode): 0xB7BEE9ACL
+INF [20110218-09:49:07.527] thr=16  paramiko.transport: Connected (version 2.0, client OpenSSH_3.9p1)
+DEB [20110218-09:49:07.564] thr=16  paramiko.transport: kex algos:['diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] server encrypt:['aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'arcfour', 'aes192-cbc', 'aes256-cbc', 'rijndael-cbc@lysator.liu.se', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr'] client mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5', 'hmac-sha1', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib'] server compress:['none', 'zlib'] client lang:[''] server lang:[''] kex follows?False
+DEB [20110218-09:49:07.564] thr=16  paramiko.transport: Ciphers agreed: local=aes128-ctr, remote=aes128-ctr
+DEB [20110218-09:49:07.564] thr=16  paramiko.transport: using kex diffie-hellman-group1-sha1; server key type ssh-rsa; cipher: local aes128-ctr, remote aes128-ctr; mac: local hmac-sha1, remote hmac-sha1; compression: local none, remote none
+DEB [20110218-09:49:07.853] thr=16  paramiko.transport: Switch to new keys ...
+DEB [20110218-09:49:07.855] thr=2   paramiko.transport: Adding ssh-rsa host key for AMRNDHL316: 88e5bed9452429a5360d3bd0bf369319
+DEB [20110218-09:49:07.857] thr=2   paramiko.transport: Trying discovered key ce651194465004b628512df30c60e3e4 in /home/corrae01/.ssh/id_rsa
+DEB [20110218-09:49:07.968] thr=16  paramiko.transport: userauth is OK
+INF [20110218-09:49:08.818] thr=16  paramiko.transport: Authentication (publickey) successful!
+DEB [20110218-09:49:08.830] thr=2   paramiko.transport: [chan 1] Max packet in: 34816 bytes
+DEB [20110218-09:49:09.005] thr=16  paramiko.transport: [chan 1] Max packet out: 32768 bytes
+INF [20110218-09:49:09.005] thr=16  paramiko.transport: Secsh channel 1 opened.
+DEB [20110218-09:49:09.074] thr=16  paramiko.transport: [chan 1] Sesch channel 1 request ok
+DEB [20110218-09:49:16.928] thr=16  paramiko.transport: [chan 1] EOF received (1)
+DEB [20110218-09:49:16.929] thr=16  paramiko.transport: EOF in transport thread

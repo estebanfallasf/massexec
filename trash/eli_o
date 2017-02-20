@@ -1,0 +1,241 @@
+hostname
+amrndhl049.pfizer.com
+
+rpm -qa | grep -i uc4
+uc4g-3.02B004-159
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+amrndhl052.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+amrndhl053.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4g-3.02B004.159-5
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+amrndhl056.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+amrndhl057.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+amrnwll001.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+elp-uc4g-3.02B004.159-5
+
+hostname
+amrnwll002.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4g-3.02B004.159-5
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+amrnwll004.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4g-3.02B004.159-5
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+nllnx029.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx030.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx031.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx032.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx033.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx037.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx038.pfizer.com
+
+rpm -qa | grep -i uc4
+uc4g-3.02B004-159
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+nllnx039.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx040.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx041.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx045.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx050.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx064.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx100.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4g-3.02B004.159-5
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+nllnx101.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4g-3.02B004.159-5
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+nllnx102.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4g-3.02B004.159-5
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+nllnx103.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+nllnx104.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4g-3.02B004.159-5
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+nllnx105.pfizer.com
+
+rpm -qa | grep -i uc4
+uc4g-3.02B004-159
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+nllnx116.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx118.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx120.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx122.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4g-3.02B004.159-5
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+nllnx125.pfizer.com
+
+rpm -qa | grep -i uc4
+uc4g-3.02B004-159
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+nllnx127.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+
+hostname
+nllnx130.pfizer.com
+
+rpm -qa | grep -i uc4
+uc4g-3.02B004-159
+elp-uc4omp-6.00A834.007-1.0
+
+hostname
+nllnx140.pfizer.com
+
+rpm -qa | grep -i uc4
+elp-uc4omp-6.00A834.007-1.0
+uc4g-3.02B004-159
+

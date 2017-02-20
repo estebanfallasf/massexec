@@ -1,0 +1,87 @@
+
+========== NLSUN835 - 1 ==========
+SSH error in first connection for server NLSUN835
+Trying second password for server NLSUN835 
+=!! Authentication error connecting server NLSUN835 !!=
+========== NLLNX118 - 2 ==========
+Access to NLLNX118 successful as vindaa with first password.
+ps -ef | grep -i uc4
+
+vindaa    6631  6628  0 18:38 ?        00:00:00 ksh -c ps -ef | grep -i uc4
+vindaa    6633  6631  0 18:38 ?        00:00:00 grep -i uc4
+
+
+------------------------------------
+
+========== MOPPGMGSCDRPD33 - 3 ==========
+
+========== NLSUN835 - 1 ==========
+SSH error in first connection for server NLSUN835
+Trying second password for server NLSUN835 
+=!! Authentication error connecting server NLSUN835 !!=
+========== NLLNX118 - 2 ==========
+Access to NLLNX118 successful as vindaa with first password.
+ps -ef | grep -i uc4 | grep -v grep
+
+
+
+------------------------------------
+
+========== MOPPGMGSCDRPD33 - 3 ==========
+SSH error in first connection for server MOPPGMGSCDRPD33
+Trying second password for server MOPPGMGSCDRPD33 
+=!! Authentication error connecting server MOPPGMGSCDRPD33 !!=
+========== GSUN906_7 - 4 ==========
+=!! Error during the session. !!=
+========== EDCEMAASDDBO55 - 5 ==========
+Access to EDCEMAASDDBO55 successful as vindaa with first password.
+ps -ef | grep -i uc4 | grep -v grep
+
+
+
+------------------------------------
+
+========== AMRNDHS075 - 6 ==========
+SSH error in first connection for server AMRNDHS075
+Trying second password for server AMRNDHS075 
+=!! Authentication error connecting server AMRNDHS075 !!=
+========== AMRNDHL202 - 7 ==========
+
+========== NLSUN835 - 1 ==========
+=!! Error server NLSUN835 is unkown. !!=
+========== NLLNX118 - 2 ==========
+Access to NLLNX118 successful as vindaa with first password.
+ps -ef | grep -i uc4 | grep -v grep
+
+
+
+------------------------------------
+
+========== MOPPGMGSCDRPD33 - 3 ==========
+Access to MOPPGMGSCDRPD33 successful as vindaa with first password.
+ps -ef | grep -i uc4 | grep -v grep
+
+root  5473  5421  0   Jul 30 ?        8:05 /opt/uc4g/uc4omp/moppgmgscdrpd33/smgr/bin/../../executor/bin/UCXJUS8
+uc4sched  5421     1  0   Jul 30 ?        0:00 /opt/uc4g/uc4omp/moppgmgscdrpd33/smgr/bin/ucybsmgr -i/opt/uc4g/uc4omp/moppgmgsc
+uc4sched  5442     1  0   Jul 30 ?        0:00 /opt/uc4g/uc4omu/moppgmgscdrpd33/smgr/bin/ucybsmgr -i/opt/uc4g/uc4omu/moppgmgsc
+root  5474  5442  0   Jul 30 ?        0:23 /opt/uc4g/uc4omu/moppgmgscdrpd33/smgr/bin/../../executor/bin/UCXJUS8
+
+
+------------------------------------
+
+========== GSUN906_7 - 4 ==========
+=!! Error during the session. !!=
+========== EDCEMAASDDBO55 - 5 ==========
+Access to EDCEMAASDDBO55 successful as vindaa with first password.
+ps -ef | grep -i uc4 | grep -v grep
+
+
+
+------------------------------------
+
+========== AMRNDHS075 - 6 ==========
+SSH error in first connection for server AMRNDHS075
+Trying second password for server AMRNDHS075 
+=!! Error during the session. !!=
+========== AMRNDHL202 - 7 ==========
+=!! Error server AMRNDHL202 is unkown. !!=

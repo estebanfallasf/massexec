@@ -1,0 +1,16 @@
+uname -r >>/var/tmp/postISRM.txt
+cat /etc/redhat-release >>/var/tmp/postISRM.txt
+yum repolist >>/var/tmp/postISRM.txt
+yum check-update >>/var/tmp/postISRM.txt
+cat /boot/grub/grub.conf >>/var/tmp/postISRM.txt
+fdisk -l >>/var/tmp/postISRM.txt
+df -lh >>/var/tmp/postISRM.txt
+pvdisplay >>/var/tmp/postISRM.txt
+vgdisplay >>/var/tmp/postISRM.txt
+lvdisplay >>/var/tmp/postISRM.txt
+sbin/lspci >>/var/tmp/postISRM.txt
+sbin/lsusb >>/var/tmp/postISRM.txt
+dmesg >>/var/tmp/postISRM.txt
+ifconfig -a >>/var/tmp/postISRM.txt
+cat /etc/fstab >>/var/tmp/postISRM.txt
+cat /etc/snmp/snmpd.conf >>/var/tmp/postISRM.txt

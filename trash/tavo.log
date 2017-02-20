@@ -1,0 +1,269 @@
+
+========== EMAEDCP001D.PFIZER.COM - 1 ==========
+Access to EMAEDCP001D.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+/usr/local/bin/sudo /usr/sbin/adflush
+
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+------------------------------------
+
+/usr/local/bin/sudo /etc/init.d/centrifydc stop;/usr/local/bin/sudo /etc/init.d/centrifydc start
+
+/etc/init.d/centrifydc: kill: no such process
+cat: cannot open /var/run/adclient.pid
+Stopping Centrify DirectControl: OK
+Starting Centrify DirectControl:     root 342177 342167   0        - ?           0:00 <defunct>
+root 342167      1   0 21:38:10 ?           0:01 /usr/sbin/adclient
+root 342168 342167   0 21:38:10 ?           0:00 cdcwatch 342167 -F -M
+
+daemon is already running (pid ).
+
+
+------------------------------------
+
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS038.PFIZER.COM - 2 ==========
+Access to EMAEDCS038.PFIZER.COM successful as argueg with first password.
+========== EMAEDCP001D.PFIZER.COM - 1 ==========
+Access to EMAEDCP001D.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+/usr/local/bin/sudo /usr/sbin/adflush
+
+DNS cache flushed successfully.
+Authorization cache store flushed successfully.
+GC and DC caches flushed successfully.
+
+
+------------------------------------
+
+/usr/local/bin/sudo /etc/init.d/centrifydc stop
+
+/etc/init.d/centrifydc: usage: kill [ [ -sig ] id ... | -l ]
+/etc/init.d/centrifydc: usage: kill [ [ -sig ] id ... | -l ]
+Stopping Centrify DirectControl: OK
+
+
+------------------------------------
+
+/usr/local/bin/sudo /etc/init.d/centrifydc start
+
+cat: cannot open /var/run/adclient.pid
+Starting Centrify DirectControl:     root 342167      1   0 21:38:10 ?           0:06 /usr/sbin/adclient
+root 342168 342167   0 21:38:10 ?           0:00 cdcwatch 342167 -F -M
+
+daemon is already running (pid ).
+
+
+------------------------------------
+
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS038.PFIZER.COM - 2 ==========
+Access to EMAEDCS038.PFIZER.COM successful as argueg with first password.
+========== EMAEDCP001D.PFIZER.COM - 1 ==========
+Access to EMAEDCP001D.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS038.PFIZER.COM - 2 ==========
+Access to EMAEDCS038.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS040.PFIZER.COM - 3 ==========
+Access to EMAEDCS040.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS041.PFIZER.COM - 4 ==========
+Access to EMAEDCS041.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS044.PFIZER.COM - 5 ==========
+Access to EMAEDCS044.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS051.PFIZER.COM - 6 ==========
+Access to EMAEDCS051.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS055.PFIZER.COM - 7 ==========
+Access to EMAEDCS055.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=1002(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS060.PFIZER.COM - 8 ==========
+Access to EMAEDCS060.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS061.PFIZER.COM - 9 ==========
+Access to EMAEDCS061.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS062.PFIZER.COM - 10 ==========
+Access to EMAEDCS062.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS066.PFIZER.COM - 11 ==========
+Access to EMAEDCS066.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS068.PFIZER.COM - 12 ==========
+Access to EMAEDCS068.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS069.PFIZER.COM - 13 ==========
+Access to EMAEDCS069.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS071.PFIZER.COM - 14 ==========
+Access to EMAEDCS071.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS072.PFIZER.COM - 15 ==========
+Access to EMAEDCS072.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMAEDCS074.PFIZER.COM - 16 ==========
+Access to EMAEDCS074.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=1002(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== EMASANL003.PFIZER.COM - 17 ==========
+Access to EMASANL003.PFIZER.COM successful as argueg with first password.
+id oracle
+
+Could not chdir to home directory /home/argueg: No such file or directory
+uid=101(oracle) gid=101(dba) groups=101(dba),4071(applmgr),2879(dstage),2882(eucandev),2933(eucanops),5145(eucanprd),3473(eucansys),5137(eucanuat),5127(ewocsys),2142(mdl),2027(mdlxprt),106(oinstall),5937(pbtchdev),4088(pfxmgr),5090(rptnet),5398(soadba)
+
+
+------------------------------------
+
+========== SANPGPDBO12.PFIZER.COM - 18 ==========
+Access to SANPGPDBO12.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== SANPGPETL01.PFIZER.COM - 19 ==========
+Access to SANPGPETL01.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------
+
+========== SANPGPETL02.PFIZER.COM - 20 ==========
+Access to SANPGPETL02.PFIZER.COM successful as argueg with first password.
+id oracle
+
+uid=101(oracle) gid=101(dba)
+
+
+------------------------------------

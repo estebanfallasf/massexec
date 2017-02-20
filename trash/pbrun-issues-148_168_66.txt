@@ -1,0 +1,680 @@
+
+========== AMRGROL084 - 1 ==========
+uname -a
+Linux amrgrol084.pfizer.com 2.6.18-194.11.3.el5 #1 SMP Mon Aug 23 15:51:38 EDT 2010 x86_64 x86_64 x86_64 GNU/Linux
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+148.168.66.61		amrgrol084.pfizer.com amrgrol084
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+========== GLNX038 - 2 ==========
+uname -a
+Linux glnx038.pfizer.com 2.4.21-37.ELsmp #1 SMP Wed Sep 7 13:28:55 EDT 2005 i686 i686 i386 GNU/Linux
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+148.168.66.242		glnx038.pfizer.com
+148.168.66.242		t038.pfizer.com
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+acceptmasters                      gpbsrv.pfizer.com gpbsrv-s.pfizer.com gpbfailover.pfizer.com gpbfailover-s.pfizer.com
+
+========== AMRGROL085 - 3 ==========
+uname -a
+
+Linux amrgrol085.pfizer.com 2.6.9-78.0.13.ELhugemem #1 SMP Wed Jan 7 18:10:28 EST 2009 i686 i686 i386 GNU/Linux
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.47		amrgrol085.pfizer.com amrgrol085
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+cat: /etc/defaultrouter: No such file or directory
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== AMRGROL086 - 4 ==========
+Access to AMRGROL086 successful as baltol with first password.
+uname -a
+
+Linux amrgrol086.pfizer.com 2.6.9-78.0.13.ELhugemem #1 SMP Wed Jan 7 18:10:28 EST 2009 i686 i686 i386 GNU/Linux
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.48		amrgrol086.pfizer.com amrgrol086
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+cat: /etc/defaultrouter: No such file or directory
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== AMRGROL087 - 5 ==========
+Access to AMRGROL087 successful as baltol with first password.
+uname -a
+
+Linux amrgrol087.pfizer.com 2.6.9-78.0.13.ELhugemem #1 SMP Wed Jan 7 18:10:28 EST 2009 i686 i686 i386 GNU/Linux
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.49		amrgrol087.pfizer.com amrgrol087
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+cat: /etc/defaultrouter: No such file or directory
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== GSUNK865 - 6 ==========
+SSH error in first connection for server GSUNK865
+Trying second password for server GSUNK865 
+=!! Authentication error connecting server GSUNK865 !!=
+========== AMRGROS019 - 7 ==========
+SSH error in first connection for server AMRGROS019
+Trying second password for server AMRGROS019 
+=!! Authentication error connecting server AMRGROS019 !!=
+========== GSUNK864E - 8 ==========
+Access to GSUNK864E successful as baltol with first password.
+uname -a
+
+SunOS gsunk864e 5.9 Generic_122300-47 sun4u sparc SUNW,Sun-Fire-15000
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.23	gsunk864e.pfizer.com gsunk864e	loghost
+148.168.66.24	gsunk864et0	gsunk864et0.pfizer.com
+148.168.66.25	gsunk864et1	gsunk864et1.pfizer.com
+148.168.66.66	gsunk864es	gsunk864es.pfizer.com
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+148.168.66.1
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== GSUNK864F - 9 ==========
+SSH error in first connection for server GSUNK864F
+Trying second password for server GSUNK864F 
+=!! Authentication error connecting server GSUNK864F !!=
+========== GSUNK865A - 10 ==========
+Access to GSUNK865A successful as baltol with first password.
+uname -a
+
+SunOS gsunk865a 5.9 Generic_122300-47 sun4u sparc SUNW,Sun-Fire-15000
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.41	gsunk865a	gsunk865a.pfizer.com	loghost
+148.168.66.42   gsunk865at0     gsunk865at0.pfizer.com
+148.168.66.43   gsunk865at1     gsunk865at1.pfizer.com
+148.168.66.70   gsunk865as      gsunk865as.pfizer.com
+148.168.66.232  ocdbprd.pfizer.com ocdbprd
+148.168.66.233  ocdbtst.pfizer.com ocdbtst
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+148.168.66.1
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== GSUNK865E - 11 ==========
+Access to GSUNK865E successful as baltol with first password.
+uname -a
+
+SunOS gsunk865e 5.9 Generic_122300-47 sun4u sparc SUNW,Sun-Fire-15000
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.53	gsunk865e.pfizer.com	gsunk865e loghost
+148.168.66.54   gsunk865et0     gsunk865et0.pfizer.com
+148.168.66.55   gsunk865et1     gsunk865et1.pfizer.com
+#148.168.66.74   gsunk865es      gsunk865es.pfizer.com RFC269525
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+148.168.66.1
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== GSUNK864A - 12 ==========
+Access to GSUNK864A successful as baltol with first password.
+uname -a
+
+SunOS gsunk864a 5.9 Generic_122300-47 sun4u sparc SUNW,Sun-Fire-15000
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.11	gsunk864a	gsunk864a.pfizer.com	loghost
+148.168.66.12	gsunk864at0	gsunk864at0.pfizer.com
+148.168.66.13	gsunk864at1	gsunk864at1.pfizer.com
+148.168.66.62	gsunk864as	gsunk864as.pfizer.com
+148.168.66.232  ocdbprd.pfizer.com ocdbprd
+148.168.66.233  ocdbtst.pfizer.com ocdbtst
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+148.168.66.1
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== GSUNK865F - 13 ==========
+Access to GSUNK865F successful as baltol with first password.
+uname -a
+
+SunOS gsunk865f 5.9 Generic_122300-47 sun4u sparc SUNW,Sun-Fire-15000
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.56	gsunk865f.pfizer.com gsunk865f	loghost
+148.168.66.57   gsunk865ft0	gsunk865ft0.pfizer.com
+148.168.66.58   gsunk865ft1	gsunk865ft1.pfizer.com
+148.168.66.75   gsunk865fs	gsunk865fs.pfizer.com
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+148.168.66.1
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com gsun179.pfizer.com
+
+
+------------------------------------
+
+========== GSUNK864B - 14 ==========
+Access to GSUNK864B successful as baltol with first password.
+uname -a
+
+SunOS gsunk864b 5.9 Generic_122300-41 sun4u sparc SUNW,Sun-Fire-15000
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.14	gsunk864b.pfizer.com    gsunk864b	loghost
+148.168.66.15	gsunk864bt0.pfizer.com  gsunk864bt0
+148.168.66.16	gsunk864bt1.pfizer.com  gsunk864bt1
+148.168.66.63	gsunk864bs.pfizer.com   gsunk864bs
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+148.168.66.1
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== GSUNK864D - 15 ==========
+SSH error in first connection for server GSUNK864D
+Trying second password for server GSUNK864D 
+=!! Authentication error connecting server GSUNK864D !!=
+========== GSUNK864H - 16 ==========
+Access to GSUNK864H successful as baltol with first password.
+uname -a
+
+SunOS gsunk864h 5.9 Generic_122300-47 sun4u sparc SUNW,Sun-Fire-15000
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.35	gsunk864h.pfizer.com	gsunk864h	loghost
+148.168.66.36	gsunk864ht0	gsunk864ht0.pfizer.com
+148.168.66.39	gsunk864ht1	gsunk864ht1.pfizer.com
+148.168.66.69	gsunk864hs	gsunk864hs.pfizer.com
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+148.168.66.1
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== GSUN392 - 17 ==========
+Access to GSUN392 successful as baltol with first password.
+uname -a
+
+SunOS gsun392 5.9 Generic_122300-47 sun4u sparc SUNW,Sun-Fire-15000
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.44	gsun392.pfizer.com	gsun392	loghost
+148.168.66.45	gsun392t0	gsun392t0.pfizer.com
+148.168.66.46	gsun392t1	gsun392t1.pfizer.com
+148.168.66.71	gsun392s	gsun392s.pfizer.com
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+148.168.66.1
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== GSUN81 - 18 ==========
+Access to GSUN81 successful as baltol with first password.
+uname -a
+
+SunOS gsun81 5.9 Generic_122300-47 sun4u sparc SUNW,Sun-Fire-15000
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.50	gsun81.pfizer.com	gsun81	loghost
+148.168.66.51   gsun81t0     gsun81t0.pfizer.com
+148.168.66.52   gsun81t1     gsun81t1.pfizer.com
+148.168.66.73   gsun81s      gsun81s.pfizer.com
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+148.168.66.1
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+3431.1 Security error, please see your administrator.
+pbrun4.0.7-07[13643]: Could not connect to run host gsun81.pfizer.com
+
+
+
+------------------------------------
+
+========== GSUN866 - 19 ==========
+SSH error in first connection for server GSUN866
+Trying second password for server GSUN866 
+=!! Authentication error connecting server GSUN866 !!=
+========== GSUNK884 - 20 ==========
+SSH error in first connection for server GSUNK884
+Trying second password for server GSUNK884 
+=!! Authentication error connecting server GSUNK884 !!=
+========== GSUN871 - 21 ==========
+SSH error in first connection for server GSUN871
+Trying second password for server GSUN871 
+=!! Authentication error connecting server GSUN871 !!=
+========== GSUN868 - 22 ==========
+SSH error in first connection for server GSUN868
+Trying second password for server GSUN868 
+=!! Authentication error connecting server GSUN868 !!=
+========== GSUN869 - 23 ==========
+SSH error in first connection for server GSUN869
+Trying second password for server GSUN869 
+=!! Authentication error connecting server GSUN869 !!=
+========== GSUN870 - 24 ==========
+SSH error in first connection for server GSUN870
+Trying second password for server GSUN870 
+=!! Authentication error connecting server GSUN870 !!=
+========== GSUN873 - 25 ==========
+SSH error in first connection for server GSUN873
+Trying second password for server GSUN873 
+=!! Authentication error connecting server GSUN873 !!=
+========== GSUN874 - 26 ==========
+Access to GSUN874 successful as baltol with first password.
+uname -a
+
+SunOS gsun874 5.9 Generic_122300-47 sun4u sparc SUNW,Sun-Fire-V490
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.97  gsun874.pfizer.com gsun874	loghost
+148.168.66.99  gsun874t0 gsun874t0.pfizer.com
+148.168.66.100  gsun874t1 gsun874t1.pfizer.com
+148.168.66.125  wlsprd5 wlsprd5.pfizer.com
+148.168.66.130  wlsadmprd5 wlsadmprd5.pfizer.com
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+148.168.66.10
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+3431.1 Security error, please see your administrator.
+pbrun4.0.7-07[460155]: Could not connect to run host gsun874.pfizer.com
+
+
+
+------------------------------------
+
+========== GSUN828 - 27 ==========
+Access to GSUN828 successful as baltol with first password.
+uname -a
+
+SunOS gsun828 5.9 Generic_122300-47 sun4u sparc SUNW,Sun-Fire-V490
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+162.48.35.1
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
+
+========== GSUN590 - 28 ==========
+SSH error in first connection for server GSUN590
+Trying second password for server GSUN590 
+=!! Authentication error connecting server GSUN590 !!=
+========== GSUN912 - 29 ==========
+Access to GSUN912 successful as baltol with first password.
+uname -a
+
+SunOS gsun912 5.9 Generic_122300-56 sun4u sparc SUNW,Sun-Fire-V490
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.204  gsun912.pfizer.com gsun912 loghost
+148.168.66.205  gsun912t0 gsun912t0.pfizer.com
+148.168.66.207  gsun912t1 gsun912t1.pfizer.com
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+148.168.66.2
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+3431.1 Security error, please see your administrator.
+pbrun4.0.7-07[93709]: Could not connect to run host gsun912.pfizer.com
+
+
+
+------------------------------------
+
+========== GSUN917 - 30 ==========
+SSH error in first connection for server GSUN917
+Trying second password for server GSUN917 
+=!! Authentication error connecting server GSUN917 !!=
+========== GSUN915 - 31 ==========
+Access to GSUN915 successful as baltol with first password.
+uname -a
+
+SunOS gsun915 5.9 Generic_122300-56 sun4u sparc SUNW,Sun-Fire-V490
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.178  gsun915.pfizer.com gsun915 loghost
+148.168.66.187  gsun915t0 gsun915t0.pfizer.com
+148.168.66.192  gsun915t1 gsun915t1.pfizer.com
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+148.168.66.2
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+3431.1 Security error, please see your administrator.
+pbrun4.0.7-07[401708]: Could not connect to run host gsun915.pfizer.com
+
+
+
+------------------------------------
+
+========== GSUN829 - 32 ==========
+=!! Error during the session. !!=
+========== GSUN920 - 33 ==========
+SSH error in first connection for server GSUN920
+Trying second password for server GSUN920 
+=!! Authentication error connecting server GSUN920 !!=
+========== GSUN921 - 34 ==========
+Access to GSUN921 successful as baltol with first password.
+uname -a
+
+SunOS gsun921 5.9 Generic_122300-56 sun4u sparc SUNW,Sun-Fire-V490
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+#148.168.66.234  gsun921 gsun921.pfizer.com loghost
+#148.168.66.236  gsun921t0 gsun921t0.pfizer.com
+#148.168.66.237  gsun921t1 gsun921t1.pfizer.com
+#148.168.66.203  wlstst8	wlstst8.pfizer.com
+#148.168.66.195  wlsadmtst8 wlsadmtst8.pfizer.com
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+#148.168.66.10
+170.116.228.1
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+3431.1 Security error, please see your administrator.
+pbrun4.0.7-07[291265]: Could not connect to run host gsun921.pfizer.com
+
+
+
+------------------------------------
+
+========== GSUN941 - 35 ==========
+Access to GSUN941 successful as baltol with first password.
+uname -a
+
+SunOS gsun941 5.9 Generic_122300-47 sun4u sparc SUNW,Sun-Fire-V490
+
+
+------------------------------------
+
+grep 148.168.66 /etc/hosts
+
+148.168.66.201  gsun941 gsun941.pfizer.com loghost
+148.168.66.245  gsun941t0 gsun941t0.pfizer.com
+
+
+------------------------------------
+
+cat /etc/defaultrouter
+
+148.168.66.1
+
+
+------------------------------------
+
+/usr/local/bin/pbrun grep acceptmaster /etc/pb.settings
+
+acceptmasters                      gpbsrv.pfizer.com gpbfailover.pfizer.com
+
+
+------------------------------------
